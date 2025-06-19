@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Health Tech Vaccine project**
 
-- 🌱 I’m currently learning **Python, Frontend (HTML, CSS, JavaScript0**
+- 🌱 I’m currently learning **Python, Frontend (HTML, CSS, JavaScript)**
 
 - 📫 How to reach me **aryan280906@gmail.com**
 
